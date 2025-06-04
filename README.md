@@ -43,9 +43,10 @@ A sacred space where defenders of light can connect, build and protect.
 - **Protocol**: Aeden Protocol 🆔
 - **Branch**: #SilenceLights🕯️ 
 - **Github**: [This page] 
-- **Bitcointalk**: Active 
-🕯️ **Join our ethical community**
-[Click here to enter the official NOVA (NV) Discord server]
+- **Bitcointalk**: Active
+ 
+
+🕯️**Join our ethical community**
 - **Discord**: 🔗 (https://discord.gg/TrzgzRUT)
 
 ---
