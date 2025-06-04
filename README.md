@@ -44,7 +44,9 @@ A sacred space where defenders of light can connect, build and protect.
 - **Branch**: #SilenceLights🕯️ 
 - **Github**: [This page] 
 - **Bitcointalk**: Active 
-- **Discord**: In formation 
+🕯️ **Join our ethical community**
+[Click here to enter the official NOVA (NV) Discord server]
+- **Discord**: 🔗 (https://discord.gg/TrzgzRUT)
 
 ---
 
