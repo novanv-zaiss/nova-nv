@@ -1,3 +1,7 @@
+<p align="center">
+
+<img title="" src="file:///home/seventy/Imagens/Token_Oficial__NOVA_NV__Circular.png.png" alt="NOVA NV Symbol" width="120">
+
 ## 🏢 NOVA NV – Foundational Institution
 
 Built on four ethical pillars:
