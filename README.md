@@ -62,9 +62,10 @@ A sacred space where defenders of light can connect, build and protect.
 - **Tokens**: (NVA) 🪙
 - **Protocol**: Aeden Protocol 🆔
 - **Branch**: #SilenceLights🕯️ 
-- **Github**: [This page] 
-- **Bitcointalk**: Active 
+- **Github**: [This page]  
 - **Discord**: [https://discord.gg/TrzgzRUT] 
+- **Bitcointalk**: Active ✅
+- **Email**: nova.nv.zaiss@proton.me 📩
 
 ---
 
