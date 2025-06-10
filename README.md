@@ -21,7 +21,7 @@ This distinction ensures clarity between the **institutional base** and the **to
 
 **Aeden Protocol 🆔 | NewEra_code is coming** 
 
-The network is 🛜 NOVA. The token is 🪙 (NVA) NOVA New Value's. The mission is Ethical
+The network is 🛜 NOVA. The tokens are 🪙 (NVA) NOVA New Value's. The mission is Ethical
 
 ---
 
@@ -59,7 +59,7 @@ A sacred space where defenders of light can connect, build and protect.
 
 - **Founder**: Zaiss  
 - **Network**: NOVA 🛜
-- **Token**: (NVA) 🪙
+- **Tokens**: (NVA) 🪙
 - **Protocol**: Aeden Protocol 🆔
 - **Branch**: #SilenceLights🕯️ 
 - **Github**: [This page] 
