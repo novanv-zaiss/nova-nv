@@ -60,10 +60,13 @@ A sacred space where defenders of light can connect, build and protect.
 - **Founder**: Zaiss  
 - **Network**: NOVA 🛜
 - **Tokens**: (NVA) 🪙
-- **Protocol**: Aeden Protocol 🆔
+- **Protocol**: Aeden🆔
 - **Branch**: #SilenceLights🕯️ 
 - **Github**: [This page]  
-- **Discord**: [https://discord.gg/TrzgzRUT] 
+- **Discord**: 🔗 Join the official Discord of NOVA NV:
+ [https://discord.gg/PpFCTdxvgR]
+For developers, white hats, and ethical allies.
+Protected by Aeden🆔 and guided by silent discipline.
 - **Bitcointalk**: Active ✅
 - **Email**: nova.nv.zaiss@proton.me 📩
 
